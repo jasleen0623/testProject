@@ -1,0 +1,10 @@
+For my project I have decided to create a website called Edu-Unite. 
+In this application there will be lectures uploaded by the professionals, 
+teachers and even the students. 
+With this application students can get answers to the questions they are 
+struggling with. They can even upload the question's photo rather than typing it.
+
+
+This application will even keep a record of the progress, 
+marks and other activities of the students and suggest them 
+with the learning methods.
